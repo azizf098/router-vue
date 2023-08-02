@@ -9,7 +9,7 @@
         setup(props, context)
         {
             onMounted(() => {
-                context.emit("id-menu", 1);
+                context.emit("id-menu", 2);
             })
         }
     }
